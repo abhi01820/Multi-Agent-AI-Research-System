@@ -3,7 +3,9 @@
 Welcome to **Abhi's AI Research Lab**, a next-generation autonomous AI research platform. This system leverages the power of multiple AI agents working in tandem to conduct deep research on any given topic, scrape relevant information, synthesize a comprehensive report, and critically evaluate its own work.
 
 > [!IMPORTANT]
-> 🎥 **Watch the Demo Video:** [Click here to watch the project in action on Google Drive](https://drive.google.com/file/d/1kwf-YAk9AY7uIeaYHPjhsG_Z_T8GlSBZ/view?usp=sharing)
+> 🎥 **Watch the Demo Video**
+> 
+> [![Abhi's AI Research Lab Demo](assets/thumbnail.png)](https://drive.google.com/file/d/1kwf-YAk9AY7uIeaYHPjhsG_Z_T8GlSBZ/view?usp=sharing)
 
 ## 🌟 Key Features
 
@@ -84,4 +86,4 @@ The application will launch in your default web browser (usually at `http://loca
 This project is open-source and created for AI research and development purposes.
 
 ---
-*Engineered with by Abhi❤️ *
+*Engineered with by Abhi❤️ .*

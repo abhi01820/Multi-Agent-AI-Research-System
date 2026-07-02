@@ -1,0 +1,4 @@
+multiAgentResearchEnv/
+.env
+__pycache__/
+*.pyc

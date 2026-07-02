@@ -10,3 +10,12 @@ load_dotenv()
 
 llm = ChatOpenAI(model = "gpt-4o-mini",temperature=0)
 
+
+
+def build_search_agent():
+    return create_agent(
+        model = llm,
+        tools= [web_search]
+    )
+
+

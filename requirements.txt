@@ -41,5 +41,6 @@ pydantic>=2.5.0
 
 
 html5lib>=1.1
-
 langchain-google-genai
+streamlit
+fpdf2

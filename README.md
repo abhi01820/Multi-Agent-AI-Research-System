@@ -5,7 +5,7 @@ Welcome to **Abhi's AI Research Lab**, a next-generation autonomous AI research 
 > [!IMPORTANT]
 > 🎥 **Watch the Demo Video**
 > 
-> [![Abhi's AI Research Lab Demo](assets/thumbnail.png)](https://drive.google.com/file/d/1kwf-YAk9AY7uIeaYHPjhsG_Z_T8GlSBZ/view?usp=sharing)
+> [![Demo Video](https://drive.google.com/thumbnail?id=1kwf-YAk9AY7uIeaYHPjhsG_Z_T8GlSBZ&sz=w800)](https://drive.google.com/file/d/1kwf-YAk9AY7uIeaYHPjhsG_Z_T8GlSBZ/view?usp=sharing)
 
 ## 🌟 Key Features
 
